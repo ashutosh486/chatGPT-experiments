@@ -3,7 +3,7 @@ I will add multiple experiments tried on the latest chatGPT by openAI
 
 ## Experiment 1: Using ChatGPT for taking a Linkedin Assessment Exam for course
 - Course Link: [Advanced NLP with Python for Machine Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning/leveraging-the-power-of-messy-text-data?u=102224978)
-- Medium Blog post about this experiment: 
+- Medium Blog post about this experiment: [How I used ChatGPT to pass the Linkedin assessment exam](https://medium.com/@ashutosh486/how-i-used-chatgpt-to-pass-the-linkedin-assessment-exam-b254ddc117ab)
 - Youtube video of entire experiment(unlisted): [Testing ChatGPT on Linkedin Assessment Exam:](https://youtu.be/INguiKtp0TU)
 
 ### **Questions**
