@@ -32,4 +32,4 @@ Questions Answered by ChatGPT:
 22. [What is another important feature of word2vec in addition to word-to-vector conversion?](questions/22.jpg)
 
 ### **Completion certificate by ChatGPT**
-<img src="./completion%20certificate.png" alt="Completion certificate by ChatGPT" width="600"/>
+<img src="./completion certificate.png" alt="Completion certificate by ChatGPT" width="600"/>
